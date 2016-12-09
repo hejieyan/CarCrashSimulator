@@ -1,2 +1,3 @@
 Hello, world!
+DOUBLE CONFLICT!
 CONFLICT!
