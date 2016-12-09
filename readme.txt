@@ -1,4 +1,4 @@
-<h1>Car Crash Simulator</h1>
+Car Crash Simulator
 
 Things to do:
 - OBJ File importer (blender)
@@ -18,8 +18,7 @@ Extra Features
 
 Day 1: Blender/importer, setup openGL C++, Terrain, lighting, camera
 
-
-<b>Useful Sites:</b>
+Useful Sites:
 
 Modeller/Blender: http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading/
 Import Sound: http://www.gamedev.net/page/resources/_/technical/game-programming/a-guide-to-starting-with-openal-r2008
