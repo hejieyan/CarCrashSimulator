@@ -40,13 +40,8 @@ endif
 # $(PROGRAM_NAME): robot.o mathLibrary.o
 # 	$(CC) -o $@ $^ $(CFLAGS) $(LDFLAGS)
 
-<<<<<<< HEAD
-terrain: main.o
-	$(CC) -o Terrain.x $^ $(CFLAGS) $(LDFLAGS)
-=======
 terrain: main.o mathLibrary.o
 	$(CC) -o CarCrashSimulator.x $^ $(CFLAGS) $(LDFLAGS)
->>>>>>> master
 
 clean:
 	$(RM) *.o $(PROGRAM_NAME)$(EXEEXT)
